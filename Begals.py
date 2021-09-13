@@ -13,7 +13,7 @@ def answerCheck(guessNum):
             print("Yedmae")
         else:
             print("Fermi")
-    return type
+    return
 
 #Create tries count
 def guessCount(count):
@@ -26,3 +26,4 @@ guessNum = int(input("Enter your guess: "))
 Checking = answerCheck(guessNum)
 
 print("Your answer check is: ", Checking)
+dasfadfafdf
